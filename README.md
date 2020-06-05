@@ -1,16 +1,19 @@
 # frontend-simple-test
 Teste para avaliação técnica de front-end.
 
+##### ORIENTAÇÕES:
+- Criar um repositório privado no GitHub e ao concluir, adicionar @baesso como colaborador do seu projeto para avaliação.
+
 ### OBJETIVO:
   Desenvolver uma aplicação que permita ao usuário visualizar uma lista de dados e ao buscar por algum valor retorne os que se aproximem da correspondência do valor informado.
 
 #### REQUISITOS FUNCIONAIS:
 - Possuir uma visualização em lista ou tabela dos dados obtidos da API de sua escolha.
 - Possuir uma busca que filtre os items exibidos em sua lista ou tabela, de acordo com o valor fornecido (digitado) pelo usuário.
-- O layout (interface), deve ser utilizável em telas com orientação horizontal e vertical.
+- O layout (interface) deve ser responsivo, ou seja utilizável em telas com orientação horizontal e vertical.
   
 #### REQUISITOS TÉCNICOS:
-- Documentação clara e legível com instruções sequências para executar a aplicação.
+- Documentação clara e bem organizada, com uma sequência de instruções para executar a aplicaçãoo.
 - Utilizar um framework/library de sua escolha, que seja SPA (single-page application).
 - Utilizar ao menos um componente na aplicação.
 - Utilizar um pré-processador de CSS.
