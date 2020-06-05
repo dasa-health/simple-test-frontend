@@ -13,7 +13,7 @@ Teste para avaliação técnica de front-end.
 - O layout (interface) deve ser responsivo, ou seja utilizável em telas com orientação horizontal e vertical.
   
 #### REQUISITOS TÉCNICOS:
-- Documentação clara e bem organizada, com uma sequência de instruções para executar a aplicaçãoo.
+- Documentação clara e bem organizada, com uma sequência de instruções para executar a aplicação.
 - Utilizar um framework/library de sua escolha, que seja SPA (single-page application).
 - Utilizar ao menos um componente na aplicação.
 - Utilizar um pré-processador de CSS.
