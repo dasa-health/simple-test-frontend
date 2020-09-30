@@ -1,4 +1,4 @@
-# frontend-simple-test
+# simple-test-frontend
 Teste para avaliação técnica de front-end.
 
 ##### ORIENTAÇÕES:
