@@ -2,7 +2,7 @@
 Teste para avaliação técnica de front-end.
 
 ##### ORIENTAÇÕES:
-- Criar um repositório privado no GitHub e ao concluir, adicionar @baesso como colaborador do seu projeto para avaliação.
+- Criar um repositório privado no GitHub e ao concluir, adicionar o usuario informado como colaborador do seu projeto para avaliação.
 
 ### OBJETIVO:
   Desenvolver uma aplicação que permita ao usuário visualizar uma lista de dados e ao buscar por algum valor retorne os que se aproximem da correspondência do valor informado.
